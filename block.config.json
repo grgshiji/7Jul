@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/7Jul.git",
+    "ssh": "git@github.com:grgshiji/7Jul.git",
+    "branch": "block_addTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "addTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "YoYfAwJXcWSEc9ZEl3ywB",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "Ktgjvk5b3tfKmJIeLwOt-"
+  ]
+}
