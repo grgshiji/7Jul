@@ -1,8 +1,8 @@
 {
   "type": "function",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/grgshiji/7Jul.git",
+    "ssh": "git@github.com:grgshiji/7Jul.git",
     "branch": "block_listTodos"
   },
   "language": "nodejs",
